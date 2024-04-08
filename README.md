@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
   </a>
 
-  <h4 align="center">Currently working on backend projects,<br/>such as projects using <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" width="100" alt="java"/> lib.</h4>
+  <h4 align="center">Currently working on backend projects,<br/>such as projects using ☕ java lib.</h4>
   <h5 align="center">Constant learner, always trying to improve!<br/><br/></h5>
 
 </p>
