@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2 align = "center">Hello World, I'm Hugo Guilherme</h2>
+<p align="center">
 
-<!--
-**HugoGuilherme/hugoGuilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href=https://www.linkedin.com/in/hugo-guilherme-costa>
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
+  </a>
 
-Here are some ideas to get you started:
+  <h4 align="center">Currently working on backend projects,<br/>such as projects using <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100" alt="java"/> lib.</h4>
+  <h5 align="center">Constant learner, always trying to improve!<br/><br/></h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<p align="center">
+  <a href='https://github.com/anuraghazra/github-readme-stats'> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoGuilherme&layout=compact&theme=gruvbox" style="max-width:100%;" width="300">       </a>
+  <p align="center">
+</p>
+
+  <h5 align="center"> email: hugo159357@gmail.com<h5>
+</p>
+</h2>
