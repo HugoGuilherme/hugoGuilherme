@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h2 align="center">Linguagens e Ferramentas:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> 
   <img src="https://img.icons8.com/color/48/000000/docker.png"/> 
@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
 </p>
 
-<h2 align="center">Conecte-se comigo:</h2>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/hugo-guilherme-costa">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
