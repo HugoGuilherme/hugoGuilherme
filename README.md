@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h4 align="center">Currently working on backend projects,<br/>such as projects using ☕ Java lib.</h4>
+<h4 align="center">Currently working on backend projects,<br/>such as projects using ☕ Java.</h4>
 
 <h5 align="center">Constant learner, always trying to improve!</h5>
 
